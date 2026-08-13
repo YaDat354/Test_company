@@ -1,0 +1,63 @@
+APPROACH — Product Showcase
+===========================
+
+Stack: React 18 + TypeScript + Vite
+
+Tôi chọn Vite thay CRA vì build nhanh hơn nhiều và không cần config thêm
+gì cả. TypeScript dùng để tránh lỗi runtime khi làm việc với dữ liệu từ API.
+
+Routing dùng React Router v6 — quen dùng, đủ cho 3 trang (Login, danh sách,
+chi tiết). Không dùng Redux hay Zustand vì app nhỏ, useState/useEffect là đủ.
+
+CSS viết tay (không dùng Tailwind) để file gọn, dễ đọc khi nộp bài.
+
+---
+
+Mock API
+
+Tôi viết mock server bằng Node.js HTTP thuần (scripts/mock-server.cjs),
+không cài thêm package nào. Lý do: chỉ cần 4 endpoint đơn giản, tự viết thì
+kiểm soát được hoàn toàn response và CORS.
+
+Song song đó xuất mockoon-data.json để chạy với Docker (mockoon/cli).
+
+Dữ liệu 100 sản phẩm sinh tự động bằng thuật toán:
+  30 tên món Việt Nam × 5 vùng miền (Hà Nội, Sài Gòn, Đà Nẵng, Huế, Cần Thơ)
+Không hardcode để dễ maintain và luôn ra đúng 100 mục.
+
+---
+
+Hình ảnh
+
+Ban đầu thử Unsplash nhưng ảnh trả về không liên quan và URL hay bị dead.
+Cuối cùng dùng ui-avatars.com — không cần API key, stable, ảnh hiện tên sản
+phẩm trên nền màu phân theo danh mục:
+  - Đồ uống    → xanh (#3498db)
+  - Đồ ăn      → cam (#e67e22)
+  - Tráng miệng → hồng (#e84393)
+
+---
+
+Docker
+
+Dockerfile 2 stage: build bằng Node rồi serve bằng Nginx (~25MB image).
+Biến VITE_API_BASE inject lúc build để frontend trỏ đúng vào mock-api container.
+Nginx config có try_files cho SPA routing và proxy /api/* sang mock-api:3000.
+
+---
+
+Chạy thử
+
+  npm install
+  node scripts/mock-server.cjs   (terminal 1)
+  npm run dev                    (terminal 2)
+  → mở http://localhost:5173, đăng nhập bất kỳ username/password
+
+  Hoặc Docker:
+  docker-compose up --build
+  → http://localhost:5177
+
+---
+
+AI hỗ trợ: dùng GitHub Copilot để viết boilerplate và config Docker.
+Các quyết định về cấu trúc, chọn image provider, xử lý lỗi thì tự quyết.

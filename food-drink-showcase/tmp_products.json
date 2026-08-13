@@ -1,0 +1,904 @@
+﻿
+
+id          : 1
+name        : Phá» BÃ² HÃ  Ná»i
+image       : https://picsum.photos/seed/product1/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 20000
+inStock     : False
+
+id          : 2
+name        : CÃ  phÃª sá»¯a ÄÃ¡ HÃ  Ná»i
+image       : https://picsum.photos/seed/product2/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 20137
+inStock     : True
+
+id          : 3
+name        : BÃ¡nh mÃ¬ HÃ  Ná»i
+image       : https://picsum.photos/seed/product3/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 20274
+inStock     : True
+
+id          : 4
+name        : BÃ¡nh ngá»t HÃ  Ná»i
+image       : https://picsum.photos/seed/product4/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 20411
+inStock     : False
+
+id          : 5
+name        : Sinh tá» trÃ¡i cÃ¢y HÃ  Ná»i
+image       : https://picsum.photos/seed/product5/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 20548
+inStock     : True
+
+id          : 6
+name        : TrÃ  ÄÃ¡ HÃ  Ná»i
+image       : https://picsum.photos/seed/product6/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 20685
+inStock     : True
+
+id          : 7
+name        : GÃ  rÃ¡n HÃ  Ná»i
+image       : https://picsum.photos/seed/product7/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 20822
+inStock     : False
+
+id          : 8
+name        : CÆ¡m táº¥m HÃ  Ná»i
+image       : https://picsum.photos/seed/product8/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 20959
+inStock     : True
+
+id          : 9
+name        : MÃ¬ xÃ o HÃ  Ná»i
+image       : https://picsum.photos/seed/product9/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 21096
+inStock     : True
+
+id          : 10
+name        : ChÃ¨ HÃ  Ná»i
+image       : https://picsum.photos/seed/product10/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 21233
+inStock     : False
+
+id          : 11
+name        : Phá» BÃ² SÃ i GÃ²n
+image       : https://picsum.photos/seed/product11/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 21370
+inStock     : True
+
+id          : 12
+name        : CÃ  phÃª sá»¯a ÄÃ¡ SÃ i GÃ²n
+image       : https://picsum.photos/seed/product12/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 21507
+inStock     : True
+
+id          : 13
+name        : BÃ¡nh mÃ¬ SÃ i GÃ²n
+image       : https://picsum.photos/seed/product13/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 21644
+inStock     : False
+
+id          : 14
+name        : BÃ¡nh ngá»t SÃ i GÃ²n
+image       : https://picsum.photos/seed/product14/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 21781
+inStock     : True
+
+id          : 15
+name        : Sinh tá» trÃ¡i cÃ¢y SÃ i GÃ²n
+image       : https://picsum.photos/seed/product15/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 21918
+inStock     : True
+
+id          : 16
+name        : TrÃ  ÄÃ¡ SÃ i GÃ²n
+image       : https://picsum.photos/seed/product16/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 22055
+inStock     : False
+
+id          : 17
+name        : GÃ  rÃ¡n SÃ i GÃ²n
+image       : https://picsum.photos/seed/product17/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 22192
+inStock     : True
+
+id          : 18
+name        : CÆ¡m táº¥m SÃ i GÃ²n
+image       : https://picsum.photos/seed/product18/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 22329
+inStock     : True
+
+id          : 19
+name        : MÃ¬ xÃ o SÃ i GÃ²n
+image       : https://picsum.photos/seed/product19/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 22466
+inStock     : False
+
+id          : 20
+name        : ChÃ¨ SÃ i GÃ²n
+image       : https://picsum.photos/seed/product20/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 22603
+inStock     : True
+
+id          : 21
+name        : Phá» BÃ² ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product21/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 22740
+inStock     : True
+
+id          : 22
+name        : CÃ  phÃª sá»¯a ÄÃ¡ ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product22/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 22877
+inStock     : False
+
+id          : 23
+name        : BÃ¡nh mÃ¬ ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product23/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 23014
+inStock     : True
+
+id          : 24
+name        : BÃ¡nh ngá»t ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product24/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 23151
+inStock     : True
+
+id          : 25
+name        : Sinh tá» trÃ¡i cÃ¢y ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product25/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 23288
+inStock     : False
+
+id          : 26
+name        : TrÃ  ÄÃ¡ ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product26/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 23425
+inStock     : True
+
+id          : 27
+name        : GÃ  rÃ¡n ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product27/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 23562
+inStock     : True
+
+id          : 28
+name        : CÆ¡m táº¥m ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product28/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 23699
+inStock     : False
+
+id          : 29
+name        : MÃ¬ xÃ o ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product29/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 23836
+inStock     : True
+
+id          : 30
+name        : ChÃ¨ ÄÃ  Náºµng
+image       : https://picsum.photos/seed/product30/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 23973
+inStock     : True
+
+id          : 31
+name        : Phá» BÃ² Huáº¿
+image       : https://picsum.photos/seed/product31/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 24110
+inStock     : False
+
+id          : 32
+name        : CÃ  phÃª sá»¯a ÄÃ¡ Huáº¿
+image       : https://picsum.photos/seed/product32/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 24247
+inStock     : True
+
+id          : 33
+name        : BÃ¡nh mÃ¬ Huáº¿
+image       : https://picsum.photos/seed/product33/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 24384
+inStock     : True
+
+id          : 34
+name        : BÃ¡nh ngá»t Huáº¿
+image       : https://picsum.photos/seed/product34/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 24521
+inStock     : False
+
+id          : 35
+name        : Sinh tá» trÃ¡i cÃ¢y Huáº¿
+image       : https://picsum.photos/seed/product35/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 24658
+inStock     : True
+
+id          : 36
+name        : TrÃ  ÄÃ¡ Huáº¿
+image       : https://picsum.photos/seed/product36/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 24795
+inStock     : True
+
+id          : 37
+name        : GÃ  rÃ¡n Huáº¿
+image       : https://picsum.photos/seed/product37/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 24932
+inStock     : False
+
+id          : 38
+name        : CÆ¡m táº¥m Huáº¿
+image       : https://picsum.photos/seed/product38/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 25069
+inStock     : True
+
+id          : 39
+name        : MÃ¬ xÃ o Huáº¿
+image       : https://picsum.photos/seed/product39/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 25206
+inStock     : True
+
+id          : 40
+name        : ChÃ¨ Huáº¿
+image       : https://picsum.photos/seed/product40/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 25343
+inStock     : False
+
+id          : 41
+name        : Phá» BÃ² Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product41/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 25480
+inStock     : True
+
+id          : 42
+name        : CÃ  phÃª sá»¯a ÄÃ¡ Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product42/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 25617
+inStock     : True
+
+id          : 43
+name        : BÃ¡nh mÃ¬ Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product43/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 25754
+inStock     : False
+
+id          : 44
+name        : BÃ¡nh ngá»t Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product44/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 25891
+inStock     : True
+
+id          : 45
+name        : Sinh tá» trÃ¡i cÃ¢y Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product45/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 26028
+inStock     : True
+
+id          : 46
+name        : TrÃ  ÄÃ¡ Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product46/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 26165
+inStock     : False
+
+id          : 47
+name        : GÃ  rÃ¡n Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product47/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 26302
+inStock     : True
+
+id          : 48
+name        : CÆ¡m táº¥m Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product48/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 26439
+inStock     : True
+
+id          : 49
+name        : MÃ¬ xÃ o Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product49/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 26576
+inStock     : False
+
+id          : 50
+name        : ChÃ¨ Cáº§n ThÆ¡
+image       : https://picsum.photos/seed/product50/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 26713
+inStock     : True
+
+id          : 51
+name        : Phá» BÃ² Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product51/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 26850
+inStock     : True
+
+id          : 52
+name        : CÃ  phÃª sá»¯a ÄÃ¡ Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product52/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 26987
+inStock     : False
+
+id          : 53
+name        : BÃ¡nh mÃ¬ Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product53/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 27124
+inStock     : True
+
+id          : 54
+name        : BÃ¡nh ngá»t Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product54/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 27261
+inStock     : True
+
+id          : 55
+name        : Sinh tá» trÃ¡i cÃ¢y Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product55/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 27398
+inStock     : False
+
+id          : 56
+name        : TrÃ  ÄÃ¡ Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product56/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 27535
+inStock     : True
+
+id          : 57
+name        : GÃ  rÃ¡n Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product57/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 27672
+inStock     : True
+
+id          : 58
+name        : CÆ¡m táº¥m Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product58/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 27809
+inStock     : False
+
+id          : 59
+name        : MÃ¬ xÃ o Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product59/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 27946
+inStock     : True
+
+id          : 60
+name        : ChÃ¨ Háº£i PhÃ²ng
+image       : https://picsum.photos/seed/product60/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 28083
+inStock     : True
+
+id          : 61
+name        : Phá» BÃ² Nha Trang
+image       : https://picsum.photos/seed/product61/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 28220
+inStock     : False
+
+id          : 62
+name        : CÃ  phÃª sá»¯a ÄÃ¡ Nha Trang
+image       : https://picsum.photos/seed/product62/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 28357
+inStock     : True
+
+id          : 63
+name        : BÃ¡nh mÃ¬ Nha Trang
+image       : https://picsum.photos/seed/product63/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 28494
+inStock     : True
+
+id          : 64
+name        : BÃ¡nh ngá»t Nha Trang
+image       : https://picsum.photos/seed/product64/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 28631
+inStock     : False
+
+id          : 65
+name        : Sinh tá» trÃ¡i cÃ¢y Nha Trang
+image       : https://picsum.photos/seed/product65/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 28768
+inStock     : True
+
+id          : 66
+name        : TrÃ  ÄÃ¡ Nha Trang
+image       : https://picsum.photos/seed/product66/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 28905
+inStock     : True
+
+id          : 67
+name        : GÃ  rÃ¡n Nha Trang
+image       : https://picsum.photos/seed/product67/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 29042
+inStock     : False
+
+id          : 68
+name        : CÆ¡m táº¥m Nha Trang
+image       : https://picsum.photos/seed/product68/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 29179
+inStock     : True
+
+id          : 69
+name        : MÃ¬ xÃ o Nha Trang
+image       : https://picsum.photos/seed/product69/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 29316
+inStock     : True
+
+id          : 70
+name        : ChÃ¨ Nha Trang
+image       : https://picsum.photos/seed/product70/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 29453
+inStock     : False
+
+id          : 71
+name        : Phá» BÃ² VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product71/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 29590
+inStock     : True
+
+id          : 72
+name        : CÃ  phÃª sá»¯a ÄÃ¡ VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product72/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 29727
+inStock     : True
+
+id          : 73
+name        : BÃ¡nh mÃ¬ VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product73/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 29864
+inStock     : False
+
+id          : 74
+name        : BÃ¡nh ngá»t VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product74/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 30001
+inStock     : True
+
+id          : 75
+name        : Sinh tá» trÃ¡i cÃ¢y VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product75/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 30138
+inStock     : True
+
+id          : 76
+name        : TrÃ  ÄÃ¡ VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product76/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 30275
+inStock     : False
+
+id          : 77
+name        : GÃ  rÃ¡n VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product77/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 30412
+inStock     : True
+
+id          : 78
+name        : CÆ¡m táº¥m VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product78/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 30549
+inStock     : True
+
+id          : 79
+name        : MÃ¬ xÃ o VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product79/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 30686
+inStock     : False
+
+id          : 80
+name        : ChÃ¨ VÅ©ng TÃ u
+image       : https://picsum.photos/seed/product80/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 30823
+inStock     : True
+
+id          : 81
+name        : Phá» BÃ² BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product81/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 30960
+inStock     : True
+
+id          : 82
+name        : CÃ  phÃª sá»¯a ÄÃ¡ BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product82/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 31097
+inStock     : False
+
+id          : 83
+name        : BÃ¡nh mÃ¬ BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product83/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 31234
+inStock     : True
+
+id          : 84
+name        : BÃ¡nh ngá»t BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product84/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 31371
+inStock     : True
+
+id          : 85
+name        : Sinh tá» trÃ¡i cÃ¢y BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product85/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 31508
+inStock     : False
+
+id          : 86
+name        : TrÃ  ÄÃ¡ BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product86/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 31645
+inStock     : True
+
+id          : 87
+name        : GÃ  rÃ¡n BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product87/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 31782
+inStock     : True
+
+id          : 88
+name        : CÆ¡m táº¥m BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product88/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 31919
+inStock     : False
+
+id          : 89
+name        : MÃ¬ xÃ o BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product89/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 32056
+inStock     : True
+
+id          : 90
+name        : ChÃ¨ BuÃ´n Ma Thuá»t
+image       : https://picsum.photos/seed/product90/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 32193
+inStock     : True
+
+id          : 91
+name        : Phá» BÃ² Há»i An
+image       : https://picsum.photos/seed/product91/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 32330
+inStock     : False
+
+id          : 92
+name        : CÃ  phÃª sá»¯a ÄÃ¡ Há»i An
+image       : https://picsum.photos/seed/product92/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 32467
+inStock     : True
+
+id          : 93
+name        : BÃ¡nh mÃ¬ Há»i An
+image       : https://picsum.photos/seed/product93/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än váº·t
+price       : 32604
+inStock     : True
+
+id          : 94
+name        : BÃ¡nh ngá»t Há»i An
+image       : https://picsum.photos/seed/product94/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 32741
+inStock     : False
+
+id          : 95
+name        : Sinh tá» trÃ¡i cÃ¢y Há»i An
+image       : https://picsum.photos/seed/product95/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 32878
+inStock     : True
+
+id          : 96
+name        : TrÃ  ÄÃ¡ Há»i An
+image       : https://picsum.photos/seed/product96/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» uá»ng
+price       : 33015
+inStock     : True
+
+id          : 97
+name        : GÃ  rÃ¡n Há»i An
+image       : https://picsum.photos/seed/product97/600/400
+description : MÃ³n ngon Äáº·c trÆ°ng, chuáº©n vá» Viá»t Nam. PhÃ¹ há»£p cho 
+              bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 33152
+inStock     : False
+
+id          : 98
+name        : CÆ¡m táº¥m Há»i An
+image       : https://picsum.photos/seed/product98/600/400
+description : HÆ°Æ¡ng vá» tÆ°Æ¡i má»i, lÃm tá»« nguyÃªn liá»u cháº¥t 
+              lÆ°á»£ng. PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : Äá» Än
+price       : 33289
+inStock     : True
+
+id          : 99
+name        : MÃ¬ xÃ o Há»i An
+image       : https://picsum.photos/seed/product99/600/400
+description : Phá»¥c vá»¥ nÃ³ng há»i vÃ thÆ¡m ngon. PhÃ¹ há»£p cho bá»¯a Än 
+              hÃng ngÃy.
+category    : Äá» Än
+price       : 33426
+inStock     : True
+
+id          : 100
+name        : ChÃ¨ Há»i An
+image       : https://picsum.photos/seed/product100/600/400
+description : CÃ´ng thá»©c truyá»n thá»ng, phÃ¹ há»£p má»i lá»©a tuá»i. 
+              PhÃ¹ há»£p cho bá»¯a Än hÃng ngÃy.
+category    : TrÃ¡ng miá»ng
+price       : 33563
+inStock     : False
+
+
+

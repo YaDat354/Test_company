@@ -1,0 +1,10 @@
+services:
+  fooddrinkshowcase:
+    image: fooddrinkshowcase
+    build:
+      context: food-drink-showcase
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3000:3000

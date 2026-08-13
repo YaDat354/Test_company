@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  mock-api:
+    image: mockoon/cli:latest
+    container_name: mock-api
+    volumes:
+      - ./mockoon-data.json:/data/mockoon-data.json:ro
+    command: ["start", "--data", "/data/mockoon-data.json", "--host", "0.0.0.0", "--port", "3000"]
+    ports:
+      - "3000:3000"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        VITE_API_BASE: http://mock-api:3000
+    container_name: frontend
+    ports:
+      - "5177:80"
+    environment:
+      - VITE_API_BASE=http://mock-api:3000
+    depends_on:
+      - mock-api
